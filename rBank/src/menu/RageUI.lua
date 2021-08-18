@@ -4,7 +4,7 @@
 --- DateTime: 21/04/2019 21:20
 ---
 
-print("[~1~Auteur~0~] : Rayan Waize")
+print("[^1Auteur^0] : ^4Rayan Waize#7272^0")
 
 ---round
 ---@param num number
