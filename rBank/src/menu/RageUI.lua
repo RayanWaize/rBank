@@ -4,7 +4,7 @@
 --- DateTime: 21/04/2019 21:20
 ---
 
-print("^3 RageUI - https://github.com/iTexZoz/RageUI - OpenSource Advanced UI Api ^0")
+print("[~1~Auteur~0~] : Rayan Waize")
 
 ---round
 ---@param num number
